@@ -1,22 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Francisco Salvatierra</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-Joven programador de 21 años con tres años de experiencia y formación en Full Stack Development, destacando habilidades en React, JavaScript, Python entre otras.
-Actualmente estoy trabajando en un proyecto de desarrollo full-stack, utilizando las habilidades que mencioné anteriormente. Nuestro proyecto consiste en crear una aplicación donde los usuarios puedan buscar cuidadores para sus mascotas. Los cuidadores pueden ofrecer sus servicios y especificar las fechas en las que están disponibles. Estamos colaborando en equipo y aplicando las técnicas que hemos aprendido para construir esta innovadora plataforma.
+- 🌱 I’m currently learning **web development and JavaScript. Additionally, I'm enrolled in a Full Stack Developer bootcamp where I'm actively working on both personal and group projects to further my skills every day. My ultimate goal is to be well-prepared for potential opportunities at top-tier companies.**
 
+- 💬 Ask me about **User Desarrollador de software con tres años involucrado en el área realizando proyectos utilizando tecnologías tales como React, Python, JavaScript y Java. Experiencia laboral en servicio al cliente, demostrando excelentes habilidades de comunicación, liderazgo, trabajo en equipo. Además de altas capacidades de adaptación a ambientes de alta presión. en ingles ChatGPT Aquí tienes una versión en inglés de tu descripción: "I am a software developer with three years of experience in the field, working on projects utilizing technologies such as React, Python, JavaScript, and Java. I also have a strong background in customer service, demonstrating excellent communication skills, leadership, and teamwork abilities. Additionally, I possess a high capacity to adapt to high-pressure environments.**
 
-https://www.linkedin.com/in/francisco-salvatierra-842b43225/
+- 📫 How to reach me **fransalvatierra16@gmail.com**
 
-<!--
-**FranSalvatierra16/FranSalvatierra16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/francisco-salvatierra-842b43225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-salvatierra-842b43225/" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
