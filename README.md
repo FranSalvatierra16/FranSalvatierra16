@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **web development and JavaScript. Additionally, I'm enrolled in a Full Stack Developer bootcamp where I'm actively working on both personal and group projects to further my skills every day. My ultimate goal is to be well-prepared for potential opportunities at top-tier companies.**
 
-- 💬 Ask me about **User Desarrollador de software con tres años involucrado en el área realizando proyectos utilizando tecnologías tales como React, Python, JavaScript y Java. Experiencia laboral en servicio al cliente, demostrando excelentes habilidades de comunicación, liderazgo, trabajo en equipo. Además de altas capacidades de adaptación a ambientes de alta presión. en ingles ChatGPT Aquí tienes una versión en inglés de tu descripción: "I am a software developer with three years of experience in the field, working on projects utilizing technologies such as React, Python, JavaScript, and Java. I also have a strong background in customer service, demonstrating excellent communication skills, leadership, and teamwork abilities. Additionally, I possess a high capacity to adapt to high-pressure environments.**
+- 💬 Ask me about **I am a software developer with three years of experience in the field, working on projects utilizing technologies such as React, Python, JavaScript, and Java. I also have a strong background in customer service, demonstrating excellent communication skills, leadership, and teamwork abilities. Additionally, I possess a high capacity to adapt to high-pressure environments.**
 
 - 📫 How to reach me **fransalvatierra16@gmail.com**
 
