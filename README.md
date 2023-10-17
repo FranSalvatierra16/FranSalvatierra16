@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Francisco Salvatierra</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **web development and JavaScript. Additionally, I'm enrolled in a Full Stack Developer bootcamp where I'm actively working on both personal and group projects to further my skills every day. My ultimate goal is to be well-prepared for potential opportunities at top-tier companies.**
+👋 Hello! I'm a 21-year-old programmer with a deep passion for technology and software development. With three years of experience in the field and a strong background in Full Stack Development, my goal is to create innovative and efficient solutions that tackle real-world problems.
 
-- 💬 Ask me about **I am a software developer with three years of experience in the field, working on projects utilizing technologies such as React, Python, JavaScript, and Java. I also have a strong background in customer service, demonstrating excellent communication skills, leadership, and teamwork abilities. Additionally, I possess a high capacity to adapt to high-pressure environments.**
+💻 My core skills include:
 
-- 📫 How to reach me **fransalvatierra16@gmail.com**
+React: Designing and developing engaging, responsive user interfaces.
+JavaScript: Client-side programming and interactive web development.
+Python: Building versatile applications and scripts.
+And many other technologies, tools, and programming languages.
+🚀 I'm constantly on the lookout for opportunities to learn and enhance my skills. I love collaborating on challenging projects and contributing to open-source communities. I'm always eager to take on new challenges and explore creative solutions.
+
+💡 If you have an interesting project or are looking for a software development collaboration, don't hesitate to reach out!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
